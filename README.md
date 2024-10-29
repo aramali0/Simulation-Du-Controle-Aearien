@@ -1,4 +1,3 @@
-Simulation Project
 
 ## Overview
 This project is an air traffic control simulation designed to demonstrate the coordination and management of aircraft within controlled airspace. It provides a realistic environment for training and understanding the complexities of air traffic control.
